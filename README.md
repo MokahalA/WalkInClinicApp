@@ -8,4 +8,4 @@ The android application was developed by a team of 4 people for SEG2105.
 
 Developed using: AndroidStudio (Java), Firebase realtime database.
 
-![Application Main Screen](https://github.com/[MokahalA]/[WalkInClinicApp]/Screenshots/MainScreen.png)
+![Application Main Screen](https://github.com/MokahalA/WalkInClinicApp/blob/main/Screenshots/MainScreen.png)
